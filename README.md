@@ -4,7 +4,7 @@ An intelligent customer support agent with **long-term memory**, **intent detect
 
 The agent remembers past conversations, classifies user intent in real-time, and knows when to escalate to a human — just like a real support team.
 
-🔗 **[Live Demo]([https://your-streamlit-url.streamlit.app](https://ai-customer-support-9yn3d6tag9jdakqgpkea94.streamlit.app/))** · 📦 **[GitHub](https://github.com/sudarshanvenkatesh13/ai-customer-support)**
+🔗 **[Live Demo]((https://ai-customer-support-9yn3d6tag9jdakqgpkea94.streamlit.app/))** · 📦 **[GitHub](https://github.com/sudarshanvenkatesh13/ai-customer-support)**
 
 ---
 
