@@ -1,0 +1,22 @@
+# === Core AI / LLM ===
+langchain==1.2.15              # LLM orchestration framework
+langchain-core==1.2.29         # Core abstractions (messages, prompts, outputs)
+langchain-openai==1.1.10       # OpenAI integration for LangChain
+langchain-community==0.4.1     # Community integrations (ChromaDB etc.)
+openai==2.32.0                 # OpenAI Python SDK (v2.x required by langchain-openai)
+
+# === Vector Database ===
+chromadb==1.5.7                # Vector DB for conversation memory
+
+# === Web Framework ===
+fastapi[standard]==0.135.3     # API framework ([standard] includes uvicorn)
+
+# === Frontend ===
+streamlit==1.56.0              # UI framework for chat + admin dashboard
+
+# === Database ===
+psycopg2-binary==2.9.10        # PostgreSQL adapter
+
+# === Utilities ===
+python-dotenv==1.1.0           # Load .env files
+pydantic==2.11.3               # Data validation (used by FastAPI + LangChain)
